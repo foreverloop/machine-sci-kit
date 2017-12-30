@@ -24,7 +24,6 @@ train_data2 = np.delete(np.asarray(color_i),test_idx)
 
 test_target = labels[test_idx]
 
-
 test_data = alcohol_percent[test_idx]
 test_data2 = color_i[test_idx]
 
