@@ -1,9 +1,6 @@
 """
 IMPORTANT: this code is largely based on 'https://github.com/llSourcell/linear_regression_live'
 but I have added plots to show this visually, and a few things to make it clearer to myself 
-
-I take ZERO CREDIT for the code which actually calculates the partial deriviates of the data, 
-this is intended for my personal use for revision of the topic at a later date
 -----
 The optimal values of m and b can be actually calculated with way less effort than doing a linear regression. 
 this is just to demonstrate gradient descent
